@@ -1,0 +1,16 @@
+{
+  "name": "chai_aur_code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node basic.js",
+    "dev": "npx tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
